@@ -1,0 +1,19 @@
+URL: https://medium.com/gitconnected/how-one-developer-prevented-millions-of-machines-from-getting-compromised-by-accident-72da8af2d76e
+
+Title: HOW ONE DEVELOPER ACCIDENTALLY STOPPED THE WORLD’S MOST DANGEROUS HACK
+
+Member-only story
+
+EVERYTHING YOU NEED TO KNOW ABOUT THE MOST DANGEROUS HACK THAT WAS ABOUT TO HAPPEN, BUT LUCKILY GOT DISCOVERED.
+
+Vivek Naskar
+Follow
+Level Up Coding
+--
+11
+Share
+In 2021, the vulnerability in the Java logging library Apache Log4j 2 called “Log4Shell” was touted as the most critical vulnerability of the last decade. It made developers all around the world work on millions of apps to fix that critical vulnerability with a non-vulnerable version.
+Imagine there’s a vulnerability of that scale, but it’s 1000x that would affect almost all the systems around the world. Yes, you heard that right.
+The bad actor or actors (not sure if it’s one person but a full-fledged team) inserted “malicious code” in the open-source library called XZ Utils, which is a command-line tool for data compression that is widely used in major Linux distributions.
+Well, this malicious code is actually a backdoor for remote code execution. This would have enabled hackers to take over all Linux systems around the world!
+This compromise was found out by Microsoft engineer and PostgreSQL developer, Andres Freund, on March 29, 2024, and he found out…
