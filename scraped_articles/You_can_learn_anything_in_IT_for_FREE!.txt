@@ -1,0 +1,72 @@
+URL: https://medium.com/@sam5epi0l/you-can-learn-anything-in-it-for-free-e54120458d95
+
+Title: YOU CAN LEARN ANYTHING IN IT FOR FREE!
+
+Pradeep J.
+Follow
+--
+Listen
+Share
+This article has everything you need to master any Technical and IT skills and it also contains an uncomplicated roadmap which will push you from zero to hero in IT.
+It took a long time to write this article as I wanted to gather all things which are helpful. This article is written over my experience, but not limited to, on how I went from having zero knowledge of IT and other skills to successfully working as a Content creator, Programmer, DevOps, Sysadmin, Architect, and of course, as a Security Engineer without any degree, cert, or training.
+
+SO, HERE THE QUESTION ARISES. WHY DO YOU NEED TO LEARN BY YOUR OWN?
+
+Binging and being overindulge in courses is like fish in a bowl. Most of the courses and degrees are designed in such a way that their content will make you feel as enough and you have mastered all skills but the bitter truth is that it is not as sufficient and also limits the creativity of your own mind.
+Pro of this methodology (learning by your self) is that You’re free to wander and think out of the box which will make you figure out and provides you expertise related to IT.
+
+OBVIOUS PREREQUISITES:
+
+ - First, the PC, make your Desktop screen Flawless and remove all distractions.
+ - Internet. (2 GB per day mostly)
+ - Hunger / Curiosity to learn.
+ - Discipline to practice.
+ - Self driven mindset.
+ - Computer Fundamentals.
+
+WHAT CONTENT TO CHOOSE? 🍊
+
+In beginning, Always prefer more valuable community (Language: English, Mandarin, French) Twitter, Reddit, GitHub, Medium, dev.to, etc.
+Again, remove the distractions. Hack the algorithm of platform. Make it hard to sneak into distractions, so you stay focused on the goal.
+Choose content which makes you stop studying and makes practice more.
+Here is the straightforward roadmap to follow:
+These are not in any specific order but use all of them as required as stated.
+ - Find curated roadmap specific to the skill/technology at 
+ - Setup Home Lab or Cloud lab (DigitalOcean referral link) which makes your productive on the actual task not the setup process by removing the breakpoints.
+ - Get used to (Linux and optionally windows) command line. It won’t harm. Learn shell programming to automate tasks.
+ - Master one language (Python or Go) and make something with it then learn multiple languages as you go. Focus on the core concept of the language.
+ - Google every issue. Read complete (Stack Overflow) threads to understand and debug the problem.
+ - Create GitHub+GitLab account. Search projects. See how people contribute. Support open source because it gives you freedom.
+ - Make use of GitHub “
+ - Setup YouTube account to learn effectively:
+ - Find more resources and specifically skill to learn on Subreddit(s) related to your niche. You may also get your queries already answered and cross-verified by community.
+ - Watch talks, conferences, practical podcasts and keep up with the community using Mastodon and Twitter (X).
+ - Make content. Publish to more reputed websites and for targeted audience. Example — YouTube, 
+ - Participate in live competitions, tournaments, or hackathons.
+ - Contribute to Open source and not-profit organization.
+ - Freelance (Upwork, Fiver). Learn to deal professionally.
+ - If your brain pops with a decent project idea work on it.
+ - Try to engage in communities such as discord and other forums.
+Everyone, at some point of time and effort gets burnout.
+ - Take a break. If your life was already at a high speed take some time off before you start something new or something big. Then start with a fresh mind.
+ - Start your day with full speed. Do one or more straightforward things from or outside the roadmap which sets you in the mood.
+ - Avoid taking phone breaks. It ruins your attention span. Keep it away as much as you can.
+ - Eat healthy. Exercise every day (but don’t do that much, that you feel low energy for whole day) Do 2–3 reps of push-ups at least every time you got stuck for a while.
+ - Go out. Learn about people’s pain. That will make you remember that you are not living the hardest life, not even close.
+ - Don’t get into money making too early, it's really a boring process. Nothing wrong with exploring though.
+ - Get a balance in life. If you learn for 20 hours a week then it’s alright. But any more than that will require opposite activity to neutralize the effect and will keep mental health good.
+ - Avoid thinking about AI. Except creating a project around it.
+ - If you’re already weak mentally and have no one to support you. I recommend you to take a break from everything and just enjoy all day every day.
+
+SPIRITUAL PHILOSOPHY 🧘
+
+ - Pray throughout the day, every day for the good!
+ - One push-up (at least) on every distraction made. (no excuses)
+ - Think about the life you are living. Know your responsibilities. Get angry and use your anger as weapon to work towards betterment!
+ - Lastly take this journey as a marathon. Consistently learn for decent time every week. It is the key.
+Doing things manually instead of getting into automation too early. And just learn how things actually work, will make this more fun.
+A great thanks to Sahils for collaborating and improving this article.
+ - Follow me 
+ - Clap to this article up to 50 times.
+ - Leave feedback/tips/opinion in comments.
+ - Say 
